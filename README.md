@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [hamdhan97](https://github.com/hamdhan97)
+
 - 
 <img src="https://count.getloli.com/get/@:hamdhan97" alt=":hamdhan97" />
 github profile markdown generator logo
