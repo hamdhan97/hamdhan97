@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://count.getloli.com/get/@:hamdhan" alt=":hamdhan" />
+
+- [hamdhan97](https://github.com/hamdhan97)
+- 
+<img src="https://count.getloli.com/get/@:hamdhan97" alt=":hamdhan97" />
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo
