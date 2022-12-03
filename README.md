@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://count.getloli.com/get/@:hamdhan97" alt=":hamdhan97" />
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13495
-Fork on GitHub
-3546
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
